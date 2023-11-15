@@ -1,0 +1,4 @@
+/* 卡片、清單模式切換按鈕 */
+.mode-switcher:hover {
+  cursor: pointer;
+}
